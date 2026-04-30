@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TaskSales.API/TaskSales.API.csproj" />
+  <Project Path="TaskSales.BlazorUI/TaskSales.BlazorUI.csproj" Id="55679ce1-a0af-4b03-a7fd-8e297f652c70" />
+  <Project Path="TaskSales.Tests/TaskSales.Tests.csproj" Id="d6f7766b-780c-4390-8e48-36e7543839b8" />
+</Solution>

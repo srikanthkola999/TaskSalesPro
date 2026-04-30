@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TaskSales.API\\TaskSales.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TaskSales.BlazorUI\\TaskSales.BlazorUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
